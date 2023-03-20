@@ -1,7 +1,7 @@
 package BuilderPattern;
 
 import java.util.Scanner;
-
+//Reversing  a String
 public class Sample {
 
 	public static void main(String[] args) {
